@@ -1,0 +1,15 @@
+# Properly detect languages on github
+*.inc linguist-language=cpp
+*.cc linguist-language=cpp
+*.h linguist-language=cpp
+
+# Source files
+*.inc text
+*.cc text
+*.h text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.hdr binary
+*.tga binary
